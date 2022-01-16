@@ -19,3 +19,6 @@ SETUP
 6. Set minimum and maximum memory allocation. It is recommended to set max above ~3500 MiB.
 7. Launch instance.
 8. Have fun!
+
+Current public server IP is at 198.27.76.218:25586
+contact me if you need whitelist or whatever
