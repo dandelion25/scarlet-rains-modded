@@ -6,8 +6,8 @@ Installation instructions are as follows:
 PRE-SETUP
 1. Ensure you have downloaded and installed some version of Java 17.
 2. Download and install MultiMC (https://multimc.org/).
-    1. Check that the java installation (javaw/java both work) you have routed MultiMC to is Java 17.
-    2. (optional) if you need a separate setup, download OpenJDK 17 and route to that javaw.
+    1. Make sure the java installation (javaw/java both work) selected in setup is Java 17.
+    2. (optional) if you need a separate java instance, download an OpenJDK 17 instance.
 3. Download this repository as a .zip file. (top right, click 'Code' dropdown menu and select 'Download ZIP')
 
 SETUP
